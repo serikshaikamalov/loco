@@ -1,4 +1,6 @@
 import path from "path";
+import url from 'url'
+
 export class Loco {
   constructor() {
     this.localeMap = {};
